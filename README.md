@@ -1,1 +1,1 @@
-Backend JavaScript ES6 Basics
+Backend JavaScript
